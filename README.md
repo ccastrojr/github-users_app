@@ -20,7 +20,7 @@ Besides that, on cliking in 'Ver detalhes' you will see more datails from user l
   - Eslint
   - Prettier
 
-*Avaliable scripts
+*Avaliable scripts*
 
 **OBS: You need to have an Android Emulator running to use this commands.**
 
