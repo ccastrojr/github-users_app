@@ -2,7 +2,7 @@
 
 ## Developed with React Native and using the public API from GitHub (api.github.com).
 
-That's a mobile app mobile where you can add yours favorites users from GitHub and see some informations from him. 
+That's a mobile app where you can add yours favorites users from GitHub and see some informations from him. 
 Besides that, on cliking in 'Ver detalhes' you will see more datails from user like the repositories that he liked.
 
 **Used technologies**
