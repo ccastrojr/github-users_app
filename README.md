@@ -27,12 +27,12 @@ Besides that, on cliking in 'Ver detalhes' you will see more datails from user l
 
 ###### If 'react-native' is already installed globaly in your machine, you can run
 
-** To install app in your Android Device - 
+** To install app in your Android Device - **
 ```
 react-native run-android
 ```
 
-- After installed, you need only start the server to use the app. For this, run
+** After installed, you need only start the server to use the app. For this, run **
 ```
 react-native start
 ```
