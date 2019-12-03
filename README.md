@@ -5,7 +5,7 @@
 That's an app mobile where you can add yours favorites users from GitHub and see some informations from him. 
 Besides that, on cliking in 'Ver detalhes' you will see more datails from user like the repositories that he liked.
 
-* Used technologies
+**Used technologies**
 
 - React Native
   - React Native Async Storage
