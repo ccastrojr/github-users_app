@@ -16,7 +16,6 @@ Besides that, on cliking in 'Ver detalhes' you will see more datails from user l
 - Prop-Types
 - Styled Components
 - Reactotron (test application)
-
 - Dev Dependencies
   - Eslint
   - Prettier
