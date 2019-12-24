@@ -24,7 +24,7 @@ Besides that, on cliking in 'Ver detalhes' you will see more datails from user l
 
 **OBS: You need to have an Android Emulator running to use this commands.**
 
-###### If 'react-native' is already installed globaly in your machine, you can run
+###### If 'react-native cli' is already installed globaly in your machine, you can run
 
 **To install app in your Android Device -**
 ```
